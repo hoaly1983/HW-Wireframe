@@ -1,0 +1,110 @@
+ {
+  box-sizing: border-box;
+  text-align: center;
+  background: #777;
+}
+
+/* INSTRUCTOR: Here is the filled out version of the float activity */
+
+body {
+  font-size: 24px;
+  line-height: 32px;
+  background: #777;
+  size: 960px;
+}
+
+header {text-align: center;
+  padding: 30px;
+  margin-bottom: 10px;
+  color: #777777;
+  background: #ebebeb;
+  font-size: 18px;
+  font-family: Arial;
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 960px;
+}
+
+
+section {color:#777777;
+  float: left;
+  padding: 30px;
+  margin-bottom: 10px;
+  background: #ebebeb;
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial;
+  margin-left: 150px;
+  margin-right: 15px;
+  text-align: center;
+
+}
+
+#middle {padding: 30px;
+color: #777777;
+width: 960px;
+margin-left: 150px;
+margin-bottom: 20px;
+margin-right:300px;
+}
+
+
+#full {width: 630px;
+  padding: 10px;s
+  overflow: auto;
+  clear: both;
+  background: #ebebeb;
+  margin-bottom: 20px;
+  height: 230px;
+}
+
+#division {
+  float: left;
+  padding: 5px;
+  margin-top: 10px;
+  background: #ebebe0;
+  width: 590px;
+  margin-bottom: 5px;
+  color: #777;
+}
+
+#article{
+  color: #ebebeb; 
+overflow: auto;
+background: #777;
+width: 600px;
+padding: 10px;
+margin-left: 5px;
+margin-right: 10px;
+margin-top: 30px;
+margin-bottom: 10px;
+}
+
+aside {color: #777777;
+  float: right;
+  width: 50px;
+  background: #777;
+  margin-bottom: 20px;
+  height:250px;
+
+}
+
+#left {float: left;
+  width: 356px;
+text-align: center;
+background: #ebebeb;}
+
+
+footer {
+  padding: 30px;
+  clear: both;
+  background: #ebebeb;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  font-family: Arial;
+  font-size: 18px;
+  color: #777777;
+  width: 960px;
+
+}
